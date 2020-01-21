@@ -1,0 +1,705 @@
+{
+	"nominations": [{
+			"category": {
+				"category_name": "Best Picture",
+				"nominees": [{
+						"Movie": "Black Panther",
+						"Producers": "Kevin Feige",
+						"DVD Release": "n/a"
+					},
+					{
+						"Movie": "BlacKkKlansman",
+						"Producers": "Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele and Spike Lee",
+						"DVD Release": "n/a"
+					},
+					{
+						"Movie": "Bohemian Rhapsody",
+						"Producers": "Graham King",
+						"DVD Release": "n/a"
+					},
+					{
+						"Movie": "The Favourite",
+						"Producers": "Ceci Dempsey, Ed Guiney, Lee Magiday and Yorgos Lanthimos",
+						"DVD Release": "n/a"
+					},
+					{
+						"Movie": "Green Book",
+						"Producers": "Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga",
+						"DVD Release": "n/a"
+					},
+					{
+						"Movie": " Roma",
+						"Producers": "Gabriela Rodríguez and Alfonso Cuarón",
+						"DVD Release": "n/a"
+					},
+					{
+						"Movie": "A Star Is Born",
+						"Producers": "Bill Gerber, Bradley Cooper and Lynette Howell Taylor",
+						"DVD Release": "n/a"
+					},
+					{
+						"Movie": "Vice",
+						"Producers": "Dede Gardner, Jeremy Kleiner, Adam McKay and Kevin Messick",
+						"DVD Release": "n/a"
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "ACTOR IN A LEADING ROLE",
+				"nominees": [{
+						"Actor": "Christian Bale",
+						"Movie": "Vice",
+						"DVD Release": "n/a"
+					},
+					{
+						"Actor": "Bradley Cooper",
+						"Movie": "A Star Is Born",
+						"DVD Release": ""
+					},
+					{
+						"Actor": "Willem Dafoe ",
+						"Movie": "At Eternity's Gate",
+						"DVD Release": ""
+					},
+					{
+						"Actor": "Rami Malek",
+						"Movie": "Bohemian Rhapsody",
+						"DVD Release": ""
+					},
+					{
+						"Actor": "Viggo Mortensen",
+						"Movie": "Green Book",
+						"DVD Release": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "ACTRESS IN A LEADING ROLE",
+				"nominees": [{
+						"Actor": "Yalitza Aparicio",
+						"Movie": "Roma",
+						"DVD Release": "",
+					},
+					{
+						"Actor": "Glenn Close",
+						"Movie": "The Wife",
+						"DVD Release": "",
+					},
+					{
+						"Actor": "Olivia Colman",
+						"Movie": "The Favourite",
+						"DVD Release": "",
+					},
+					{
+						"Actor": "Lady Gaga",
+						"Movie": "A Star Is Born",
+						"DVD Release": "",
+					},
+					{
+						"Actor": "Melissa McCarthy",
+						"Movie": "Can You Ever Forgive Me?",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "ACTOR IN A SUPPORTING ROLE",
+				"nominees": [{
+						"Actor": "Mahershala Ali",
+						"Movie": "Green Book",
+						"DVD Release": "",
+					},
+					{
+						"Actor": "Adam Driver",
+						"Movie": "BlacKkKlansman",
+						"DVD Release": "",
+					},
+					{
+						"Actor": "Sam Elliott",
+						"Movie": "A Star Is Born",
+						"DVD Release": "",
+					},
+					{
+						"Actor": "Richard E. Grant",
+						"Movie": "Can You Ever Forgive Me?",
+						"DVD Release": "",
+					},
+					{
+						"Actor": "Sam Rockwell",
+						"Movie": "Vice",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "ACTRESS IN A SUPPORTING ROLE",
+				"nominees": [{
+						"Actor": "Amy Adams",
+						"Movie": "Vice",
+						"DVD Release": "",
+					},
+					{
+						"Actor": "Marina de Tavira",
+						"Movie": "Roma",
+						"DVD Release": "",
+					},
+					{
+						"Actor": "Regina King",
+						"Movie": "If Beale Street Could Talk",
+						"DVD Release": "",
+					},
+					{
+						"Actor": "Emma Stone",
+						"Movie": "The Favourite",
+						"DVD Release": "",
+					},
+					{
+						"Actor": "Rachel Weisz",
+						"Movie": "The Favourite",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "ANIMATED FEATURE FILM",
+				"nominees": [{
+						"Movie": "Incredibles 2",
+						"Director": "Brad Bird, John Walker and Nicole Paradis Grindle",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "Isle of Dogs",
+						"Director": "Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "Mirai",
+						"Director": "Mamoru Hosoda and Yuichiro Saito",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "Ralph Breaks the Internet",
+						"Director": "Rich Moore, Phil Johnston and Clark Spencer",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "Spider-Man: Into the Spider-Verse",
+						"Director": "Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord and Christopher Miller",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "CINEMATOGRAPHY",
+				"nominees": [{
+						"Movie": "Cold War",
+						"Cinematographer": "Łukasz Żal",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "The Favourite",
+						"Cinematographer": "Robbie Ryan",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "Never Look Away",
+						"Cinematographer": "Caleb Deschanel",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "Alfonso Cuarón",
+						"Cinematographer": "Roma",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "A Star Is Born",
+						"Cinematographer": "Matthew Libatique",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "COSTUME DESIGN",
+				"nominees": [{
+						"Movie": "The Ballad of Buster Scruggs",
+						"Designer": "Mary Zophres",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "Black Panther",
+						"Designer": "Ruth Carter",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "The Favourite",
+						"Designer": "Sandy Powell",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "Mary Poppins Returns",
+						"Designer": "Sandy Powell",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "Mary Queen of Scots",
+						"Designer": "Alexandra Byrne",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "DIRECTING",
+				"nominees": [{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "DOCUMENTARY (FEATURE)",
+				"nominees": [{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "DOCUMENTARY (SHORT SUBJECT)",
+				"nominees": [{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "FILM EDITING",
+				"nominees": [{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "FOREIGN LANGUAGE FILM",
+				"nominees": [{
+						"Movie": "",
+						"Country": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Country": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Country": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Country": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Country": "",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "MAKEUP AND HAIRSTYLING",
+				"nominees": [{
+						"Movie": "",
+						"Makeup Designer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Makeup Designer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Makeup Designer": "",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "MUSIC (ORIGINAL SCORE)",
+				"nominees": [{
+						"Movie": "",
+						"Film score composer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Film score composer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Film score composer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Film score composer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Film score composer": "",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "PRODUCTION DESIGN",
+				"nominees": [{
+						"Movie": "",
+						"Production Design": "",
+						"Set Decoration": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Production Design": "",
+						"Set Decoration": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Production Design": "",
+						"Set Decoration": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Production Design": "",
+						"Set Decoration": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Production Design": "",
+						"Set Decoration": "",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "SHORT FILM (ANIMATED)",
+				"nominees": [{
+						"Movie": "",
+						"Director": "",
+						"Writer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"Writer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"Writer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"Writer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Director": "",
+						"Writer": "",
+						"DVD Release": "",
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "SOUND MIXING",
+				"nominees": [{
+						"Movie": "",
+						"Sound Editior": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Sound Editior": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Sound Editior": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Sound Editior": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Sound Editior": "",
+						"DVD Release": "",
+					}
+
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "SOUND EDITING",
+				"nominees": [{
+						"Movie": "",
+						"Sound Editior": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Sound Editior": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Sound Editior": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Sound Editior": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Sound Editior": "",
+						"DVD Release": "",
+					}
+
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "VISUAL EFFECTS",
+				"nominees": [{
+						"Movie": "",
+						"Effects": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Effects": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Effects": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Effects": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Effects": "",
+						"DVD Release": "",
+					}
+
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "WRITING (ADAPTED SCREENPLAY)",
+				"nominees": [{
+						"Movie": "",
+						"Writer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Writer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Writer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Writer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Writer": "",
+						"DVD Release": "",
+					}
+
+				]
+			}
+		},
+		{
+			"category": {
+				"category_name": "WRITING (ORIGINAL SCREENPLAY)",
+				"nominees": [{
+						"Movie": "",
+						"Writer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Writer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Writer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Writer": "",
+						"DVD Release": "",
+					},
+					{
+						"Movie": "",
+						"Writer": "",
+						"DVD Release": "",
+					}
+
+				]
+			}
+		}
+	]
+}
